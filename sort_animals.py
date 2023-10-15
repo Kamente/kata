@@ -17,7 +17,7 @@ def sort_animals(lst):
 animal1 = Animal("cat", 4)
 animal2 = Animal("spider", 8)
 animal3 = Animal("cow", 4)
-animal4 = Animal("henk", 2)
+animal4 = Animal("hen", 2)
 
 animal_list = [animal1, animal2, animal3, animal4]
 sorted_animals = sort_animals(animal_list)
